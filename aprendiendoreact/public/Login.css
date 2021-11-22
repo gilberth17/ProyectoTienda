@@ -1,0 +1,114 @@
+ .u-section-1 {
+  background-image: url("images/billionphotos10109792.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 892px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 300;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: normal;
+  margin: 49px 782px 0 -178px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 6rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: Oswald, sans-serif;
+  margin: 69px 57px 0 538px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 185px;
+  margin: 32px 22px 60px 818px;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 736px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 682px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 395px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 640px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 564px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 572px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 175px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 420px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 423px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.25rem;
+    margin-right: 482px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 4.5rem;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 240px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 266px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 382px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 40px;
+  }
+}
